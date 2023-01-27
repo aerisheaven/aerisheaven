@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaralune
+- 👋 Hi, I’m @aerisheaven
 - 🌱 I’m currently learning computer networking, python, and sharpening my c++ skills
 
 <!---
